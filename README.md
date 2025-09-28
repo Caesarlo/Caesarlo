@@ -9,8 +9,8 @@
 ## 🛠️ 技能树（持续加点中）
 
 - 🖥️ **前端**：Vue / React，能写页面，也能写 bug  
-- ⚙️ **后端**：Node.js / Python，偶尔会写出奇怪的 API  
-- 🗄️ **数据库**：MySQL / MongoDB，会查、会增删改，但 join 可能要百度  
+- ⚙️ **后端**：Node.js / Python / Java，偶尔会写出奇怪的 API  
+- 🗄️ **数据库**：MySQL / Redis，会查、会增删改，但 join 可能要百度  
 - 🐧 **工具**：Git / Docker / Linux，三件套不离手  
 - 🎯 **兴趣方向**：AI、自动化、开源，和任何能让我少敲几行代码的技术  
 
