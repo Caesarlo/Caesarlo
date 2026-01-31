@@ -15,8 +15,8 @@
 - **前端**：Vue / React
 - **后端**：Node.js / Python / Java
 - **数据库**：MySQL / Redis
-- **工具**：Git / Docker / Linux
-- **兴趣方向**：AI、自动化、开源
+- **工具**：Git / Docker / Linux / opencode / codex / claude code 
+- **兴趣方向**：AI、自动化、开源、智能体、第一性原理、密度泛函理论、分子动力学模拟
 
 ---
 
@@ -25,7 +25,7 @@
 | 仓库 | 简介 |
 |---|---|
 | `cs336-assignment1-basics-implementation` | 作业驱动开发的产物，功能完整、结构清晰 |
-| `tmmd-database&tmmd-agent` | 中南大学热管理材料数据库&科研智能体（不给你看） |
+| `tmmd-database & tmmd-agent` | 中南大学热管理材料数据库&科研智能体（仓库不给你看） |
 | 一些私有仓库 | 不能开源的东西 |
 | 其它仓库 | 一些实践项目与实验性代码 |
 
