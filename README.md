@@ -6,7 +6,7 @@
 
 作品：
 - 中南大学热管理材料数据库 & 科研智能体
-- tmmd.csu.edu.cn
+- https://tmmd.csu.edu.cn
 
 ---
 
