@@ -42,14 +42,14 @@ while True:
 
 ## 📊 我的 GitHub 面板
 
-![Caesarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caesarlo\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarlo\&layout=compact\&theme=radical)
+![Caesarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caesarlo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarlo&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Commit 动态
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Caesarlo\&theme=radical\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Caesarlo&theme=radical&hide_border=true)
 
 ---
 
