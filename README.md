@@ -29,8 +29,9 @@
 
 ## 📊 GitHub 面板
 
-![Caesarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caesarlo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarlo&layout=compact&theme=radical)
+![Caesarlo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caesarlo&theme=radical)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caesarlo)
 
 ---
 
