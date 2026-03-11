@@ -16,7 +16,7 @@
 - **后端**：Node.js / Python / Java
 - **数据库**：MySQL / Redis
 - **工具**：Git / Docker / Linux / opencode / codex / claude code 
-- **兴趣方向**：AI、自动化、开源、智能体、第一性原理、密度泛函理论、分子动力学模拟
+- **主攻方向**：AI、自动化、开源、智能体、第一性原理、密度泛函理论、分子动力学模拟
 
 ---
 
