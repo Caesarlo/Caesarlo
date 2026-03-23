@@ -107,15 +107,6 @@ TMMD 不只是一个数据库，更像是一个把 **材料数据、科研认知
 
 ---
 
-## 🔥 Contribution Signal
-
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Caesarlo&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Caesarlo&theme=tokyonight&utcOffset=8" />
-</div>
-
----
-
 ## 📡 Activity Graph
 
 <div align="center">
