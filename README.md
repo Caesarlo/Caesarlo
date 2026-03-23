@@ -34,18 +34,6 @@
 
 </div>
 
----
-
-## 🧠 Neural Profile
-
-```text
-Name        : Caesarlo
-Role        : AI Engineer / Scientific Computing Builder
-Mode        : Research -> Engineering -> Usable System
-Interests   : LLM, Agents, Automation, DFT, MD, Open Source
-Weak Point  : Sometimes ideas run faster than maintainability
-Upgrade Path: Better systems, better tooling, better abstractions
-```
 
 ---
 
@@ -76,22 +64,6 @@ Upgrade Path: Better systems, better tooling, better abstractions
 ### Tools / Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,bun,vscode,pycharm,neovim,vim,postman,figma,notion" />
-
-</div>
-
----
-
-## 🌌 Primary Vision
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    A[Scientific Idea] --> B[Model / Theory]
-    B --> C[Automation Workflow]
-    C --> D[Agent System]
-    D --> E[Usable Product]
-```
 
 </div>
 
@@ -152,26 +124,16 @@ TMMD 不只是一个数据库，更像是一个把 **材料数据、科研认知
 
 ---
 
-## 📂 Featured Repositories
+## 🧩 Projects
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caesarlo&repo=cs336-assignment1-basics-implementation&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Caesarlo&repo=Caesarlo&theme=tokyonight&hide_border=true" />
-</div>
-
-> 私有项目与实验性系统没有完全公开，但方向集中在：**Agent、科研自动化、数据平台、系统化 AI 应用**。
-
----
-
-## 🛰️ Current Focus
-
-<div align="center">
-
-`LLM Systems` • `Agent Workflow` • `Automation` • `Scientific Computing` • `DFT` • `Molecular Dynamics` • `Open Source`
-
-</div>
+| Project               | Description                                         |
+| --------------------- | --------------------------------------------------- |
+| Transformer Basics    | Implementation-driven learning of core architecture |
+| TMMD Database & Agent | Scientific DB + AI system (private)                 |
+| Experimental Repos    | Ideas, prototypes, engineering experiments          |
 
 ---
+
 
 ## 👁️ Visitor Counter
 
