@@ -112,7 +112,13 @@ it is a unified platform that brings together **materials data, scientific reaso
 ## 📡 Activity Graph
 
 <div align="center">
-  <img width="83%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2E3A,100:0F4C5C&height=20&section=header" />
+
+<img width="83%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B2E3A,100:0F4C5C&height=20&section=footer" />
+
 </div>
 
 ---
