@@ -80,12 +80,13 @@ I build systems that transform **research ideas, algorithmic prototypes, and aut
 
 ### 🔬 Thermal Management Materials Database & Scientific Agent
 
-TMMD 不只是一个数据库，更像是一个把 **材料数据、科研认知、模拟流程、智能体交互** 组织起来的实验平台。
+TMMD is not just a database —  
+it is a unified platform that brings together **materials data, scientific reasoning, simulation workflows, and intelligent agents**.
 
-* 📚 面向热管理材料的数据组织与知识表达
-* 🤖 面向科研场景的智能体与自动化工作流
-* 🧪 连接 **材料计算 / 数据库 / AI** 的系统化尝试
-* 🚧 目标：让科研过程更智能、更可复用、更高效
+- 📚 Knowledge-centric data modeling for thermal management materials  
+- 🤖 Agent-based systems for automated scientific workflows  
+- 🧪 Integrating **materials computation, data infrastructure, and AI** into a cohesive system  
+- 🚧 Mission: make research **more intelligent, reproducible, and efficient**  
 
 <div align="center">
 
