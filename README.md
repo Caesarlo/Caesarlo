@@ -18,12 +18,13 @@
 
 > **Bridging first-principles science with intelligent systems.**
 
-我在做的事情，不只是把模型跑起来，而是把 **科研思路、算法原型、自动化流程** 变成真正可用、可扩展、可落地的系统。
+I don’t just run models —  
+I build systems that transform **research ideas, algorithmic prototypes, and automated workflows** into **scalable, production-ready applications**.
 
-* 🤖 关注 **AI / LLM / Agent / 自动化系统**
-* 🧪 关注 **材料计算 / 第一性原理 / 分子动力学模拟**
-* ⚙️ 持续打磨 **工程化、维护性、效率与产品化能力**
-* 🚀 目标是把 **idea → prototype → workflow → product** 串起来
+- 🤖 Focus: **AI / LLMs / Agent systems / Automation**
+- 🧪 Domain: **Materials computation, first-principles methods, molecular dynamics**
+- ⚙️ Improving: **engineering quality, maintainability, and system efficiency**
+- 🚀 Mission: bridge **idea → prototype → workflow → product**
 
 <div align="center">
 
