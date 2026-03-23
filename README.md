@@ -1,59 +1,125 @@
-# 👋 你好，我是 Caesarlo
+# 🚀 Caesarlo | AI × Engineering × Science
 
-懂点 AI、算法与工程化应用，在琢磨怎么将科研思路落地为可用系统，经常忽略可维护性、自动化与效率，对大模型与材料计算等交叉领域略知一二。
+<div align="center">
 
-个人主页：www.gump.top
+<!-- typing effect -->
 
-作品：
-- 中南大学热管理材料数据库 & 科研智能体
-- https://tmmd.csu.edu.cn
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Research+to+Production;LLM+%7C+Agent+%7C+Scientific+Computing;Building+Useful+Systems+from+Ideas" />
 
----
-
-## 🛠️ 技能与方向
-
-- **前端**：Vue / React
-- **后端**：Node.js / Python / Java
-- **全栈**：Nextjs / Langchain / Langgraph / Swift / Pytorch
-- **数据库**：MySQL / Redis / Postgresql(vector)
-- **工具**：Git / Docker / opencode / codex / claude code / Pencil
-- **主攻方向**：AI、自动化、开源、智能体、第一性原理、密度泛函理论、分子动力学模拟
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,vite,threejs,nodejs,express,flask,spring,prisma,python,java,c,nextjs,pytorch,tensorflow,anaconda,mysql,redis,postgres,docker,nginx,git,github,npm,pnpm,bun,bash,powershell,linux,ubuntu,windows,vscode,visualstudio,pycharm,neovim,vim,postman,figma,notion,gcp,selenium,stackoverflow,twitter,instagram,gmail)
----
-
-## 📂 代表项目
-
-| 仓库 | 简介 |
-|---|---|
-| `cs336-assignment1-basics-implementation` | 作业驱动开发的产物，Transformer基础模型架构 |
-| `tmmd-database & tmmd-agent` | 中南大学热管理材料数据库&科研智能体（仓库不给你看） |
-| 一些私有仓库 | 不能开源的东西 |
-| 其它仓库 | 一些实践项目与实验性代码 |
+</div>
 
 ---
 
-## 📊 GitHub 面板
+## 🧠 About Me
 
-![Caesarlo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caesarlo&theme=radical)
+> Turning **research ideas → usable systems**
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Caesarlo)
+* 🤖 AI / LLM / Agent engineering
+* 🧪 Materials science + computation (DFT / MD)
+* ⚙️ Focus on automation & system design
+* ⚠️ Actively improving: maintainability & efficiency
 
----
-
-## 🔥 Commit 动态
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Caesarlo&theme=radical&hide_border=true)
-
----
-
-## 👀 访客计数器
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Caesarlo&color=blueviolet&style=flat-square&label=Visitors)
+🌐 Website: [https://www.gump.top](https://www.gump.top)
+🚧 Project: [https://tmmd.csu.edu.cn](https://tmmd.csu.edu.cn)
 
 ---
 
-## 📫 联系我
+## ⚡ Tech Stack
 
-- GitHub：[@Caesarlo](https://github.com/Caesarlo)
-- 邮箱：`caesar_gump@163.com`
+### 🎨 Frontend
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,vite,threejs)
+
+### ⚙️ Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,spring,prisma)
+
+### 🤖 AI / ML
+
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,python)
+
+### 🗄️ Database
+
+![Database](https://skillicons.dev/icons?i=mysql,redis,postgres)
+
+### 🧰 DevOps & Tools
+
+![Tools](https://skillicons.dev/icons?i=docker,nginx,git,github,linux,bash)
+
+### 🧑‍💻 Environment
+
+![Env](https://skillicons.dev/icons?i=vscode,pycharm,neovim,vim)
+
+---
+
+## 🚀 Highlight Project
+
+### 🔬 TMMD: Thermal Management Materials Database & Agent
+
+* 🧠 Scientific database + AI agent system
+* 🔍 Materials discovery & simulation workflow
+* ⚙️ Combines **LLM + DFT + MD + automation**
+
+🌐 [https://tmmd.csu.edu.cn](https://tmmd.csu.edu.cn)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Caesarlo&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarlo&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Caesarlo&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧬 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true" />
+
+---
+
+## 🧩 Projects
+
+| Project               | Description                                         |
+| --------------------- | --------------------------------------------------- |
+| Transformer Basics    | Implementation-driven learning of core architecture |
+| TMMD Database & Agent | Scientific DB + AI system (private)                 |
+| Experimental Repos    | Ideas, prototypes, engineering experiments          |
+
+---
+
+## 👁️ Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Caesarlo&color=00f7ff&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+* GitHub: [https://github.com/Caesarlo](https://github.com/Caesarlo)
+* Email: [caesar_gump@163.com](mailto:caesar_gump@163.com)
+
+---
+
+<div align="center">
+
+✨ *"From first principles to intelligent systems"* ✨
+
+</div>
