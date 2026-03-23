@@ -109,13 +109,6 @@ it is a unified platform that brings together **materials data, scientific reaso
 
 ---
 
-## 📡 Activity Graph
-
-<div align="center">
-  <img width="83%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
 
 ## 🧩 Projects
 
