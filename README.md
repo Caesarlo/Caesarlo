@@ -104,7 +104,7 @@ it is a unified platform that brings together **materials data, scientific reaso
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caesarlo&theme=tokyonight" />
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caesarlo&theme=tokyonight" />
 </div>
 
 ---
@@ -112,7 +112,7 @@ it is a unified platform that brings together **materials data, scientific reaso
 ## 📡 Activity Graph
 
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
