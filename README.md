@@ -99,12 +99,7 @@ it is a unified platform that brings together **materials data, scientific reaso
 ## 📊 Cyber Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Caesarlo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caesarlo&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="83%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caesarlo&theme=tokyonight&hide_border=true" />
+  <img style="border-radius: 20px;" width="83%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
