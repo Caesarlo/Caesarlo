@@ -19,6 +19,7 @@
 - **工具**：Git / Docker / opencode / codex / claude code / Pencil
 - **主攻方向**：AI、自动化、开源、智能体、第一性原理、密度泛函理论、分子动力学模拟
 
+![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,python,java,nextjs,swift,pytorch,mysql,redis,postgres,docker,git)
 ---
 
 ## 📂 代表项目
