@@ -4,7 +4,7 @@
 
 <!-- typing effect -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Research+to+Production;LLM+%7C+Agent+%7C+Scientific+Computing;Building+Useful+Systems+from+Ideas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A192F&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Research+to+Production;LLM+%7C+Agent+%7C+Scientific+Computing;Building+Useful+Systems+from+Ideas" />
 
 </div>
 
@@ -20,6 +20,7 @@
 * ⚠️ Actively improving: maintainability & efficiency
 
 🌐 Website: [https://www.gump.top](https://www.gump.top)
+
 🚧 Project: [https://tmmd.csu.edu.cn](https://tmmd.csu.edu.cn)
 
 ---
