@@ -98,27 +98,14 @@ it is a unified platform that brings together **materials data, scientific reaso
 
 ## 📊 Cyber Analytics
 
-<div align="center">
-  <img style="border-radius: 20px;" width="83%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+
 
 ---
 
 ## 📡 Activity Graph
 
 <div align="center">
-<svg width="83%" viewBox="0 0 1000 400">
-  <defs>
-    <clipPath id="round">
-      <rect x="0" y="0" width="1000" height="400" rx="20" ry="20"/>
-    </clipPath>
-  </defs>
-  <image 
-    href="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" 
-    width="1000" 
-    height="400" 
-    clip-path="url(#round)" />
-</svg>
+  <img style="border-radius: 20px;" width="83%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caesarlo&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
