@@ -38,7 +38,7 @@ I build systems that transform **research ideas, algorithmic prototypes, and aut
 
 ---
 
-## ⚡ Tech Matrix
+## ⚡ Tech Stack
 
 <div align="center">
 
